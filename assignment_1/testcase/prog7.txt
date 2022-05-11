@@ -1,0 +1,3 @@
+load R1, 1A
+Output R1
+Halt

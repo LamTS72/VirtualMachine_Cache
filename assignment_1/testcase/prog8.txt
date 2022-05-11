@@ -1,0 +1,2 @@
+Load R1, 1, 7
+Halt

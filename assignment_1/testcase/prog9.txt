@@ -1,0 +1,4 @@
+Move R1, 1
+Or R1, true
+Output R1
+Halt

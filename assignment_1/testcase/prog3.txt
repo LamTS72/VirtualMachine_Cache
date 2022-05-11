@@ -1,0 +1,9 @@
+Move R1, 0A
+Store R1, 10
+Move R2, 1A
+Store R2, 20
+Load R3, R1
+Load R4, R2
+Add R3, R4
+Output R3
+Halt

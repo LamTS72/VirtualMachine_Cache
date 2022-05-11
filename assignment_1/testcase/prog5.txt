@@ -1,0 +1,11 @@
+Move R2, 0A
+Store R2, 9
+Load R1, R2
+CmpEQ R1, 0
+JumpIf R1, 10A
+Load R1, R2
+Output R1
+Minus R1, 1
+Store R2, R1
+Jump 3A
+Halt

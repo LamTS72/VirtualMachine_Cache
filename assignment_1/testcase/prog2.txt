@@ -1,0 +1,5 @@
+Move R1, 0A
+Store R1, 10
+Load R1, R1
+Output R1
+Halt
