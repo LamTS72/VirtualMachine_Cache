@@ -17,6 +17,7 @@ INTRODUCTION
   a virtual machine used for assignments in this course.
   
 DOING
+
   I can say that it is difficult for if you dont understand clearly about VIRTUAL MACHINE working mechanism.
   Read again and again if you dont understand.
   This code is not perfect and it have some errors about exceptions but it is made in the level of student.
