@@ -1,4 +1,18 @@
 # VirtualMachineDSA
+#Introduction
+  Virtual machine is a software program that can run on a physical machine to
+  function as a virtual computer system with its own set of instructions together
+  with other components.
+  Virtual machine has many different applications:
+  • Simulator/emulator of a real physical computer system so that softwares
+  can be executed on. VirtualBox or VMWare is such an example.
+  • New platform to execute its program equally in different physical machines. Java virtual machine is used to execute Java program equally in
+  different computer systems.
+  • Applications use complex data. Microsoft Word is such an application
+  which uses many different kinds of data (text, image, table, format,...)
+  The following sections will describe the structure and set of instructions in
+  a virtual machine used for assignments in this course.
+#Doing
   I can say that it is difficult for if you dont understand clearly about VIRTUAL MACHINE working mechanism.
   Read again and again if you dont understand.
   This code is not perfect and it have some errors about exceptions but it is made in the level of student.
