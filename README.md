@@ -1,5 +1,6 @@
 # VirtualMachineDSA
-INTRODUCTION
+INTRODUCTION:
+
   Virtual machine is a software program that can run on a physical machine to
   function as a virtual computer system with its own set of instructions together
   with other components.
@@ -16,7 +17,7 @@ INTRODUCTION
   The following sections will describe the structure and set of instructions in
   a virtual machine used for assignments in this course.
   
-DOING
+DOING:
 
   I can say that it is difficult for if you dont understand clearly about VIRTUAL MACHINE working mechanism.
   Read again and again if you dont understand.
@@ -25,6 +26,11 @@ DOING
   
   Assignment_1: I think this part is difficult in this project because it describes get input mechanism and how to handle them.
   
-  Assignment_2: You need to work with AVL tree and how a cache works, we have some policies for you like FIFO,LIFO,LRU,MSU,LFU,RR.
+  Assignment_2: You need to work with AVL tree and how a cache works, we have some policies for you like FIFO,LIFO,LRU,MSU,LFU,RR by circular queue.
   
   Assignment_3: You need to work with hash search and implement them to FIFO,MSU,LFU,LRU.
+
+WHAT YOU KNOW:
+
+  Every assignment have some testcases and solutions for them but in practice each assignment have all of 110 testcases. So if you pass 10 testcases that are given 
+  in each assignment, it is not sure you will pass all of them. :D
