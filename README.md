@@ -30,7 +30,7 @@ DOING:
   
   Assignment_3: You need to work with hash search and implement them to FIFO,MSU,LFU,LRU.
 
-WHAT YOU KNOW:
+WHAT YOU NEED TO KNOW:
 
   Every assignment have some testcases and solutions for them but in practice each assignment have all of 110 testcases. So if you pass 10 testcases that are given 
   in each assignment, it is not sure you will pass all of them. :D
